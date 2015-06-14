@@ -1,8 +1,8 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Medicolegal Expert
+email: chris@bradi.sh
+url: https://chris.bradi.sh
+description: "Paediatric Orthopaedic expert in Medicolegal cases specialisin in children with limb deformities, arthrogryposis, neurofibromatosis, brachial plexus palsies and osteogenesis imperfecta."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -15,8 +15,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Mr Christopher F. Bradish
+  location: Brownlow Mews, London
   social: Around the Web
   credits: Credits
 
@@ -39,7 +39,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ''
 
 # Build settings
 markdown: kramdown
