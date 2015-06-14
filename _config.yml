@@ -15,8 +15,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Mr Christopher F. Bradish
-  location: Brownlow Mews, London
+  copyright: copyright
+  location: location
   social: Around the Web
   credits: Credits
 
