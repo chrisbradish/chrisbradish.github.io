@@ -18,10 +18,6 @@ footer:
   copyright: Christopher Bradish
   location: location
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: Edgbaston
-  - line: Birmingham
 
 # Build settings
 markdown: kramdown
